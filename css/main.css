@@ -1,1 +1,51 @@
+@font-face {
+    font-family: 'sinkin_sans200_x_light';
+    src: url(../fonts/sinkinsans-200xlight.woff2) format('woff2'),
+         url(../fonts/sinkinsans-200xlight.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
+@font-face {
+    font-family: 'open_sanslight';
+    src: url(../fonts/opensans-light.woff2) format('woff2'),
+         url(../fonts/opensans-light.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+    background-color: #246A73;
+}
+
+#wrapper {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #639FAB;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+p{
+  font-family: 'open_sanslight', sans-serif;	
+}
+h1{
+    font-family: 'sinkin_sans200_x_light', sans-serif;
+    
+}
+h2{
+    font-family: 'sinkin_sans200_x_light', sans-serif;
+    
+}
+h3{
+    font-family: 'sinkin_sans200_x_light', sans-serif;
+    
+}
+h4{
+    font-family: 'sinkin_sans200_x_light', sans-serif;
+    
+}
